@@ -1,2 +1,2 @@
 # IBM-Data-Science-Certification-Capstone
-All notebooks required for the IBM Data Science Certification Capstone project.
+All notebooks required for the IBM Data Science Certification Capstone project. This project tasks an individual in predicting whether or not the first stage of a SpaceX Falcon 9 rocket will land successfully. This is done through the use of webscraping, data collection, data wrangling, creation of machine learning models, as well as visualization. This project exhibits a deeper understanding in all major areas of Data Science.
